@@ -13,5 +13,7 @@ fun main() {
     } catch (e: NumberFormatException) {
         println("would you enter digit?")
     }
+    val chars = Character()
+    chars.charSplit()
 
 }
